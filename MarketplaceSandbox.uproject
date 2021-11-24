@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "YetiTech Studios",
+	"Description": "Demo project for Sandbox Framework Plugin. Buy it from Unreal Marketplace.",
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"Mac",
+		"Windows",
+		"Android",
+		"IOS",
+		"WindowsNoEditor"
+	]
+}
