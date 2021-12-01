@@ -7,6 +7,11 @@
 		{
 			"Name": "EnhancedInput",
 			"Enabled": true
+		},
+		{
+			"Name": "Sandbox",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b118cec21545432393e762fe0ccfab2e"
 		}
 	],
 	"TargetPlatforms": [
