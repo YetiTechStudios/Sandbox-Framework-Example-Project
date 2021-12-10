@@ -1,6 +1,8 @@
 # Sandbox Framework Example Project
 
-Demo project showcasing Sandbox Framework Plugin.
+Demo project showcasing [Sandbox Framework Plugin](https://www.unrealengine.com/marketplace/sandbox-framework).
+
+[![Sandbox Featured Image](Image.png)](https://www.unrealengine.com/marketplace/sandbox-framework)
 
 ## Tutorial
 [![SANDBOX_TUTORIAL_VIDEO_YOUTUBE](https://img.youtube.com/vi/IN_ixKg2rJk/0.jpg)](https://www.youtube.com/watch?v=IN_ixKg2rJk&list=PL7fc8DYE3eVDHilj38pivc4mX_mryXjNh&index=2)
