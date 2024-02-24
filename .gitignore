@@ -74,3 +74,5 @@ Plugins/**
 # Cache files for the editor to use
 DerivedDataCache/*
 .gitmodules
+.idea/
+.vsconfig
